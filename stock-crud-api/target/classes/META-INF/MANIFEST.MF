@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: avinashaita
+Build-Jdk: 11.0.4
+Implementation-Title: stockService
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.hashedin.springbootapplication
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/stock-api/
+Created-By: Maven Integration for Eclipse
+
